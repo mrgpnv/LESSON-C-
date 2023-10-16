@@ -1,0 +1,15 @@
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/bin/Debug/net6.0/Lesson1_HelloConsole
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/bin/Debug/net6.0/Lesson1_HelloConsole.deps.json
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/bin/Debug/net6.0/Lesson1_HelloConsole.runtimeconfig.json
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/bin/Debug/net6.0/Lesson1_HelloConsole.dll
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/bin/Debug/net6.0/Lesson1_HelloConsole.pdb
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.csproj.AssemblyReference.cache
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.AssemblyInfoInputs.cache
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.AssemblyInfo.cs
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.dll
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/refint/Lesson1_HelloConsole.dll
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.pdb
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/Lesson1_HelloConsole.genruntimeconfig.cache
+/Users/genapanov/Desktop/Lesson C#/Lesson1_HelloConsole/obj/Debug/net6.0/ref/Lesson1_HelloConsole.dll
